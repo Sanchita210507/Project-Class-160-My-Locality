@@ -1,4 +1,4 @@
-# PRO C157 Create Thumbnails
+# My Locality
 
 
-Create a basic structure for the virtual tour. Create the HTML page for the virtual tour and add the content as entities to the page.
+Create a basic scene of my locality. Click on 'my home' on mainpage and take a tour of my locality!
